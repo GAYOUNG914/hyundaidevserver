@@ -1726,7 +1726,7 @@ address {
   transform: translateY(-50%);
   width: 14px;
   height: 14px;
-  background: url(../../assets/images/common/ico_close_gray.png) center no-repeat;
+  background: url(../images/common/ico_close_gray.png) center no-repeat;
   background-size: 100%;
 }
 .layer.featureLayer .popHead {
@@ -2051,7 +2051,7 @@ address {
     transform: translateY(-50%);
     width: 2.6667vw;
     height: 2.6667vw;
-    background: url(../../assets/images/common/ico_close_gray.png) center no-repeat;
+    background: url(../images/common/ico_close_gray.png) center no-repeat;
     background-size: 100%;
   }
   .layer.featureLayer .popCont {
@@ -14397,7 +14397,7 @@ body.aos-ani #wrap.mainWrap header .hdTop .hdUtil li a {
 .result .failure {
   margin: 110px 0 270px 0;
   padding-top: 80px;
-  background: url("../../assets/images/common/ico_not_found.svg") no-repeat 50% 0;
+  background: url("../images/common/ico_not_found.svg") no-repeat 50% 0;
   background-size: 60px 50px;
   text-align: center;
 }
@@ -14586,7 +14586,7 @@ body.aos-ani #wrap.mainWrap header .hdTop .hdUtil li a {
   height: 50px;
   margin-right: 15px;
   transform: translateY(8px);
-  background: url("../../assets/images/common/ico_error.png") no-repeat center;
+  background: url("../images/common/ico_error.png") no-repeat center;
   background-size: auto;
   background-size: contain;
 }
@@ -14738,7 +14738,7 @@ body.aos-ani #wrap.mainWrap header .hdTop .hdUtil li a {
   .result .failure {
     margin: 7.6389vw 0 18.75vw 0;
     padding-top: 5.5556vw;
-    background: url("../../assets/images/common/ico_not_found.svg") no-repeat 50% 0;
+    background: url("../images/common/ico_not_found.svg") no-repeat 50% 0;
     background-size: 4.1667vw 3.4722vw;
     text-align: center;
   }
@@ -14929,7 +14929,7 @@ body.aos-ani #wrap.mainWrap header .hdTop .hdUtil li a {
     height: 3.4722vw;
     margin-right: 1.0417vw;
     transform: translateY(0.5556vw);
-    background: url("../../assets/images/common/ico_error.png") no-repeat center;
+    background: url("../images/common/ico_error.png") no-repeat center;
     background-size: auto;
     background-size: contain;
   }
@@ -15126,7 +15126,7 @@ body.aos-ani #wrap.mainWrap header .hdTop .hdUtil li a {
   .result .failure {
     margin: 0 0 36vw 0;
     padding-top: 16.5333vw;
-    background: url("../../assets/images/common/ico_not_found.svg") no-repeat 50% 0;
+    background: url("../images/common/ico_not_found.svg") no-repeat 50% 0;
     background-size: 13.3333vw 11.2vw;
     text-align: center;
   }
@@ -15332,7 +15332,7 @@ body.aos-ani #wrap.mainWrap header .hdTop .hdUtil li a {
   .error .failure {
     margin: 17.3333vw 0 21.3333vw 0;
     padding-top: 16.5333vw;
-    background: url("../../assets/images/common/ico_not_found.svg") no-repeat 50% 0;
+    background: url("../images/common/ico_not_found.svg") no-repeat 50% 0;
     background-size: 13.3333vw 11.2vw;
     text-align: center;
   }
