@@ -15,8 +15,8 @@ common/ mail/ customer service/ about us/ media 메뉴의 페이지들을 구현
 ## Skill
 * About us - history 페이지 스크립트
   - **스크롤에 따라 활성화되는 점들과 progress bar**<br>
-    👉 <img width="143" alt="image" src="https://user-images.githubusercontent.com/77196388/145222099-afef936a-8f5c-46b6-be55-853d213ae332.png">
-        인덱스 값 마다 길이 값을 가져와서 0번 째 값부터 n번째 까지 더한 길이가 활성화 점이 위치한 높이(=n번째 까지의 총 길이 합)보다 클 때 점이 활성화가 되도록<br> 스크립트를 짜보았습니다.
+    👉 <img width="143" alt="image" src="https://user-images.githubusercontent.com/77196388/145222099-afef936a-8f5c-46b6-be55-853d213ae332.png"><br>
+        인덱스 값 마다 길이 값을 가져와서 0번 째 값부터 n번째 까지 더한 길이가 활성화 점이 위치한 높이(=n번째 까지의 총 길이 합)보다 클 때 점이 활성화가 되도록 스크립트를 짜보았습니다.
 ```
  if ($line.height() > $dd.eq(0).height() + $dd.eq(1).height()) {
           $dd.eq(2).addClass("on");
